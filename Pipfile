@@ -7,6 +7,7 @@ name = "pypi"
 requests = "*"
 pytest = "*"
 setuptools = "*"
+assertpy = "*"
 
 [dev-packages]
 
