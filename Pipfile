@@ -8,6 +8,9 @@ requests = "*"
 pytest = "*"
 setuptools = "*"
 assertpy = "*"
+curlify = "*"
+faker = "*"
+pytest-html = "*"
 
 [dev-packages]
 
